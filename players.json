@@ -1,0 +1,38 @@
+[
+    {
+        "name":"FalseGod_",
+        "sponsor": "RIZE",
+        "characters": ["Steve"],
+        "points": 50,
+        "tags": ["FalseGod_", "TheFalseGod"],
+        "smashgg": {
+            "ids": [2214127]
+        }
+    },
+    {
+        "name":"Kuzma",
+        "sponsor": "Guile",
+        "characters": ["Nina", "Leo","Josie"],
+        "points": {
+            "Trial By Fire": 25
+        },
+        "info": "A new Tekken player.",
+        "tags": ["Kuzma", "xKuzma", "KuzmaTech"],
+        "smashgg": {
+            "ids": [2210352]
+        }
+    },
+    {
+        "name":"BlueMajesty",
+        "sponsor": "",
+        "characters": ["Jin", "Kazuya", "Dragunov", "Feng","Noctis"],
+        "points": {
+            "Trial By Fire": 25
+        },
+        "info": "A veteran in his stride.",
+        "tags":["BlueMajesty", "Tim the Punisher", "ThePunisher", "Osama Tim Laden", "Punisher"],
+        "smashgg":{
+            "ids": [2223896]
+        }
+    }
+]

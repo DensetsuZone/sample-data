@@ -1,0 +1,16 @@
+{
+    "id": 10101813108155513,
+    "name": "JDCR vs Knee : Final Round 2018",
+    "players": ["JDCR", "Knee"],
+    "characters": {
+        "Knee": ["Devil Jin"],
+        "JDCR": ["Dragunov"]
+    },
+    "video_url": "https://www.youtube.com/watch?v=dBsVbBl5yh8",
+    "video_mirrors": [],
+    "event": "Final Round 2018",
+    "date": "18-03-2018",
+    "info": "First Tekken World Tour event of 2018.",
+    "winner": "Knee",
+    "stats": {}
+}
