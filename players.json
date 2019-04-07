@@ -1,17 +1,23 @@
 [
     {
+        "id": 0,
         "name":"FalseGod_",
         "sponsor": "RIZE",
         "characters": ["Steve"],
-        "points": 50,
+        "points": {
+            "Trial By Fire": 50
+        },
         "tags": ["FalseGod_", "TheFalseGod"],
         "smashgg": {
             "ids": [2214127]
-        }
+        },
+        "matches":
+        [10101813108155513]
     },
     {
+        "id": 1,
         "name":"Kuzma",
-        "sponsor": "Guile",
+        "sponsor": "",
         "characters": ["Nina", "Leo","Josie"],
         "points": {
             "Trial By Fire": 25
@@ -24,10 +30,10 @@
     },
     {
         "name":"BlueMajesty",
-        "sponsor": "",
+        "sponsor": "RIZE",
         "characters": ["Jin", "Kazuya", "Dragunov", "Feng","Noctis"],
         "points": {
-            "Trial By Fire": 25
+            "Trial By Fire": 0
         },
         "info": "A veteran in his stride.",
         "tags":["BlueMajesty", "Tim the Punisher", "ThePunisher", "Osama Tim Laden", "Punisher"],
