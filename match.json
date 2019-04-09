@@ -1,7 +1,16 @@
 {
     "id": 10101813108155513,
     "name": "JDCR vs Knee : Final Round 2018",
-    "players": ["JDCR", "Knee"],
+    "players": [
+                {
+                    "id": 22423,
+                    "name": "JDCR"
+                },
+                {
+                    "id": 22323423423423,
+                    "name": "Knee"
+                }
+                ],
     "characters": {
         "Knee": ["Devil Jin"],
         "JDCR": ["Dragunov"]
@@ -12,5 +21,24 @@
     "date": "18-03-2018",
     "info": "First Tekken World Tour event of 2018.",
     "winner": "Knee",
-    "stats": {}
+    "stages": [ "Dragon's Nest", "Abandoned Temple" ,"Infinite Azure"],
+    "games": [
+        {
+            "rounds":[
+                {
+                    "winner": "JDCR",
+                    "stats": {
+                        "DRG2RP0": 2,
+                        "DRG2RP1": 1,
+                        "DRG2RP2": 1,
+                        "DRG2RP3": 0,
+                        "DVJHS00": 1,
+                        "DVJHS01": 0,
+                        "DVJHS02": 0,
+                        "DVJ4RK00": 1
+                    }
+                }
+            ]
+        }
+    ]
 }

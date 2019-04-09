@@ -1,0 +1,22 @@
+[
+    {
+        "code": "ALL15900",
+        "description": "Number of attacks attempted."
+    },
+    {
+        "code": "ALL15901",
+        "description": "Number of attacks hit"
+    },
+    {
+        "code": "ALL15902",
+        "description": "Number of attacks blocked."
+    },
+    {
+        "code": "ALL15903",
+        "description": "Number of attacks counter hit"
+    },
+    {
+        "code": "DRG2RP00",
+        "description": "Dragunov d+2s performed."
+    }
+]

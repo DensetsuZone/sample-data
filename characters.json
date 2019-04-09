@@ -1,1 +1,69 @@
-{}
+[
+    {
+        "name": "Akuma",
+        "code": "AKM"
+    },
+    {
+        "name": "Alisa",
+        "code": "ALI"
+    },
+    {
+        "name": "Anna",
+        "code": "ANA"
+    },
+    {
+        "name": "Armor King",
+        "code": "AKN"
+    },
+    {
+        "name": "Asuka",
+        "code": "ASK"
+    },
+    {
+        "name": "Bob",
+        "code": "BOB"
+    },
+    {
+        "name": "Bryan",
+        "code": "BRY"
+    },
+    {
+        "name": "Claudio",
+        "code": "CLD"
+    },
+    {
+        "name": "Devil Jin",
+        "code": "DVJ",
+        "moves": [
+            {
+                "name": "Hellsweep",
+                "code": "HS",
+                "notation": {
+                    "ENG": [ "CD 4", "f,n,d,d/f+4", "CD+4" ],
+                    "ANM": ["6523RK"]
+                },
+                "properties": [
+                    "Low",
+                    "Launcher",
+                    "Tracking"
+                ]
+            },
+            {
+                "name": "Demon Steel Pedal",
+                "notation": {
+                    "ENG": ["b+4"],
+                    "ANM": ["4RK"]
+                },
+                "properties": [
+                    "Mid",
+                    "CH Launcher"
+                ],
+                "aliases": [ "Steel Pedal" ]
+            }
+        ]
+    }
+    {
+        "name": "Marduk",
+        "code": "MRD"
+    }
+]
