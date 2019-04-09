@@ -63,6 +63,38 @@
         ]
     },
     {
+        "name": "Dragunov",
+        "code": "DRG",
+        "moves": [
+            {
+                "name": "While running 2",
+                "code": "WR2",
+                "notation":{
+                    "ENG": [ "WR+2" , "f,f,f+2"],
+                    "ANM": [ "666RP"]
+                },
+                "properties": [
+                    "Mid",
+                    "CH Launcher",
+                    "Knockdown",
+                    "Unparryable"
+                ]
+            },
+            {
+                "name": "Down 2",
+                "code": "2RP",
+                "notation": {
+                    "ENG":[ "d+2", "d2"],
+                    "ANM":["2RP"]
+                },
+                "properties": [
+                    "Low",
+                    "Tracking"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Marduk",
         "code": "MRD"
     }
